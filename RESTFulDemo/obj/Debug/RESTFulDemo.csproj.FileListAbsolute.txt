@@ -1,0 +1,10 @@
+E:\RESTFulDemo\RESTFulDemo\bin\RESTFulDemo.dll
+E:\RESTFulDemo\RESTFulDemo\bin\RESTFulDemo.pdb
+E:\RESTFulDemo\RESTFulDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\RESTFulDemo\RESTFulDemo\obj\Debug\RESTFulDemo.dll
+E:\RESTFulDemo\RESTFulDemo\obj\Debug\RESTFulDemo.pdb
+E:\Checcllo Jesus\RESTFulDemo\bin\RESTFulDemo.dll
+E:\Checcllo Jesus\RESTFulDemo\bin\RESTFulDemo.pdb
+E:\Checcllo Jesus\RESTFulDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Checcllo Jesus\RESTFulDemo\obj\Debug\RESTFulDemo.dll
+E:\Checcllo Jesus\RESTFulDemo\obj\Debug\RESTFulDemo.pdb

@@ -1,0 +1,10 @@
+E:\RESTFulDemo\RESTClient\bin\Debug\RESTClient.exe
+E:\RESTFulDemo\RESTClient\bin\Debug\RESTClient.pdb
+E:\RESTFulDemo\RESTClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\RESTFulDemo\RESTClient\obj\x86\Debug\RESTClient.exe
+E:\RESTFulDemo\RESTClient\obj\x86\Debug\RESTClient.pdb
+E:\Checcllo Jesus\RESTClient\obj\x86\Debug\RESTClient.exe
+E:\Checcllo Jesus\RESTClient\obj\x86\Debug\RESTClient.pdb
+E:\Checcllo Jesus\RESTClient\bin\Debug\RESTClient.exe
+E:\Checcllo Jesus\RESTClient\bin\Debug\RESTClient.pdb
+E:\Checcllo Jesus\RESTClient\obj\x86\Debug\ResolveAssemblyReference.cache
